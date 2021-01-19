@@ -7,9 +7,9 @@ sites:
   - name: Uptimer
     url: https://uptime-xzfrost.glitch.me
     icon: https://harmonymusic.tk/assets/img/logo.png
-  
-
-
+  - name: Uptimer Glitch
+    url: https://Glitch-Uptimer.mschodeihsan.repl.co
+    icon: https://harmonymusic.tk/assets/img/logo.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
