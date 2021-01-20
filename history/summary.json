@@ -4,19 +4,19 @@
     "url": "https://uptime-xzfrost.glitch.me",
     "icon": "https://harmonymusic.tk/assets/img/logo.png",
     "slug": "uptimer",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 5275,
-    "timeDay": 10381,
-    "timeWeek": 5275,
-    "timeMonth": 5275,
-    "timeYear": 5275,
+    "status": "up",
+    "uptime": "96.05%",
+    "uptimeDay": "93.62%",
+    "uptimeWeek": "96.05%",
+    "uptimeMonth": "96.05%",
+    "uptimeYear": "96.05%",
+    "time": 7729,
+    "timeDay": 12769,
+    "timeWeek": 7729,
+    "timeMonth": 7729,
+    "timeYear": 7729,
     "dailyMinutesDown": {
-      "2021-01-20": 0
+      "2021-01-20": 92
     }
   },
   {
