@@ -5,11 +5,11 @@
     "icon": "https://harmonymusic.tk/assets/img/logo.png",
     "slug": "uptimer",
     "status": "up",
-    "uptime": "96.39%",
+    "uptime": "96.44%",
     "uptimeDay": "96.86%",
-    "uptimeWeek": "96.39%",
-    "uptimeMonth": "96.39%",
-    "uptimeYear": "96.39%",
+    "uptimeWeek": "96.44%",
+    "uptimeMonth": "96.44%",
+    "uptimeYear": "96.44%",
     "time": 9671,
     "timeDay": 9819,
     "timeWeek": 9671,
@@ -26,9 +26,9 @@
     "url": "https://Glitch-Uptimer.mschodeihsan.repl.co",
     "icon": "https://harmonymusic.tk/assets/img/logo.png",
     "slug": "uptimer-glitch",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,6 +37,8 @@
     "timeWeek": 661,
     "timeMonth": 661,
     "timeYear": 661,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-23": 0
+    }
   }
 ]
