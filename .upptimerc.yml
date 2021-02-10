@@ -4,8 +4,8 @@ repo: uptime-XzF # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Uptimer
-    url: https://uptime-xzfrost.glitch.me
+  - name: Uptimer 
+    url: https://uptime.xzfrostt.repl.co
     icon: https://harmonymusic.tk/assets/img/logo.png
   
 
@@ -15,7 +15,7 @@ status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /uptime-XzF
+  baseUrl: /uptime-XzF 
   logoUrl: https://harmonymusic.tk/assets/img/logo.png
   name: Uptime XzFrosT
   introTitle: "This is an uptime website for Uptime XzFrosT websites!"
