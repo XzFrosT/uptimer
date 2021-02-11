@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 257,
-    "timeDay": 257,
-    "timeWeek": 257,
-    "timeMonth": 257,
-    "timeYear": 257,
+    "time": 332,
+    "timeDay": 332,
+    "timeWeek": 332,
+    "timeMonth": 332,
+    "timeYear": 332,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://i.imgur.com/jIqqUie.png",
     "slug": "brain-bot-discord",
     "status": "up",
-    "uptime": "78.30%",
-    "uptimeDay": "78.30%",
-    "uptimeWeek": "78.30%",
-    "uptimeMonth": "78.30%",
-    "uptimeYear": "78.30%",
-    "time": 937,
-    "timeDay": 937,
-    "timeWeek": 937,
-    "timeMonth": 937,
-    "timeYear": 937,
+    "uptime": "88.10%",
+    "uptimeDay": "88.10%",
+    "uptimeWeek": "88.10%",
+    "uptimeMonth": "88.10%",
+    "uptimeYear": "88.10%",
+    "time": 836,
+    "timeDay": 836,
+    "timeWeek": 836,
+    "timeMonth": 836,
+    "timeYear": 836,
     "dailyMinutesDown": {
-      "2021-02-11": 24
+      "2021-02-11": 17
     }
   }
 ]
