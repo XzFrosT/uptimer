@@ -22,17 +22,19 @@
     "url": "https://brain-bot-discord.glitch.me",
     "icon": "https://i.imgur.com/jIqqUie.png",
     "slug": "brain-bot-discord",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 279,
-    "timeDay": 279,
-    "timeWeek": 279,
-    "timeMonth": 279,
-    "timeYear": 279,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 1881,
+    "timeDay": 1881,
+    "timeWeek": 1881,
+    "timeMonth": 1881,
+    "timeYear": 1881,
+    "dailyMinutesDown": {
+      "2021-02-11": 0
+    }
   }
 ]
