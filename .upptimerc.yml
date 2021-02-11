@@ -4,12 +4,12 @@ repo: uptime-XzF # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Uptimer 
+  - name: Shiro Neko
     url: https://shiro-nekoo.glitch.me
     icon: https://harmonymusic.tk/assets/img/logo.png
-  
-
-
+  - name: Brain Bot Discord 
+    url: https://brain-bot-discord.glitch.me
+    icon: https://i.imgur.com/jIqqUie.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
