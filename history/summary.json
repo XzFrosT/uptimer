@@ -1,27 +1,38 @@
 [
   {
-    "name": "Uptimer",
+    "name": "Shiro Neko",
     "url": "https://shiro-nekoo.glitch.me",
     "icon": "https://harmonymusic.tk/assets/img/logo.png",
-    "slug": "uptimer",
+    "slug": "shiro-neko",
     "status": "up",
-    "uptime": "96.07%",
-    "uptimeDay": "94.99%",
-    "uptimeWeek": "88.96%",
-    "uptimeMonth": "96.07%",
-    "uptimeYear": "96.07%",
-    "time": 3837,
-    "timeDay": 5133,
-    "timeWeek": 1866,
-    "timeMonth": 3837,
-    "timeYear": 3837,
-    "dailyMinutesDown": {
-      "2021-02-11": 72,
-      "2021-02-10": 410,
-      "2021-02-09": 631,
-      "2021-01-22": 45,
-      "2021-01-21": 65,
-      "2021-01-20": 92
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 257,
+    "timeDay": 257,
+    "timeWeek": 257,
+    "timeMonth": 257,
+    "timeYear": 257,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Brain Bot Discord",
+    "url": "https://brain-bot-discord.glitch.me",
+    "icon": "https://i.imgur.com/jIqqUie.png",
+    "slug": "brain-bot-discord",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 279,
+    "timeDay": 279,
+    "timeWeek": 279,
+    "timeMonth": 279,
+    "timeYear": 279,
+    "dailyMinutesDown": {}
   }
 ]
