@@ -4,11 +4,11 @@ repo: uptime-XzF # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Shiro Neko
-    url: https://shiro-nekoo.glitch.me
-    icon: https://harmonymusic.tk/assets/img/logo.png
-  - name: Brain Bot Discord 
-    url: https://brain-bot-discord.xzfrostt.repl.co
+  - name: Brain Bot Website
+    url: https://
+    icon: https://i.imgur.com/jIqqUie.png
+  - name: Brain Bot 
+    url: https://xzfrost-2890-brainbot.glitch.me
     icon: https://i.imgur.com/jIqqUie.png
 
 status-website:
