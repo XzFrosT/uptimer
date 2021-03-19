@@ -5,7 +5,7 @@ repo: uptime-XzF # Your GitHub repository name
 # Add your sites here
 sites:
   - name: Brain Bot Website
-    url: https://
+    url: https://brainbot-xyz.glitch.me
     icon: https://i.imgur.com/jIqqUie.png
   - name: Brain Bot 
     url: https://xzfrost-2890-brainbot.glitch.me
