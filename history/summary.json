@@ -22,17 +22,17 @@
     "url": "https://xzfrost-2890-brainbot.glitch.me",
     "icon": "https://i.imgur.com/jIqqUie.png",
     "slug": "brain-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 672,
-    "timeDay": 1382,
-    "timeWeek": 672,
-    "timeMonth": 672,
-    "timeYear": 672,
+    "time": 607,
+    "timeDay": 1059,
+    "timeWeek": 607,
+    "timeMonth": 607,
+    "timeYear": 607,
     "dailyMinutesDown": {}
   }
 ]
