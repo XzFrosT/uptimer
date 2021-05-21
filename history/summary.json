@@ -11,28 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 316,
-    "timeDay": 326,
-    "timeWeek": 293,
-    "timeMonth": 300,
+    "timeDay": 323,
+    "timeWeek": 288,
+    "timeMonth": 295,
     "timeYear": 316,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Brain Bot",
-    "url": "https://xzfrost-2890-brainbot.glitch.me",
-    "icon": "https://i.imgur.com/jIqqUie.png",
-    "slug": "brain-bot",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 236,
-    "timeDay": 137,
-    "timeWeek": 148,
-    "timeMonth": 158,
-    "timeYear": 236,
     "dailyMinutesDown": {}
   }
 ]
