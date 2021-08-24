@@ -1,0 +1,13 @@
+{
+  "default_prefix": "p!",
+  "owners": ["591416431598632980"],
+  "timeout": 300000,
+  "invite_link": "https://discord.com/oauth2/authorize?client_id=820586686996021278&scope=bot&permissions=523328",
+  "mcolor": "#c4a1ff",
+  "IDs": {
+        "friendsonly": [
+            "012345678910111213"
+        ],
+        "testguild": "822341256453292072"
+  }
+}
