@@ -4,17 +4,17 @@
     "url": "https://brainbot-xyz.glitch.me",
     "icon": "https://i.imgur.com/jIqqUie.png",
     "slug": "brain-bot-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 394,
-    "timeDay": 175,
-    "timeWeek": 286,
-    "timeMonth": 611,
-    "timeYear": 394,
+    "time": 393,
+    "timeDay": 178,
+    "timeWeek": 275,
+    "timeMonth": 599,
+    "timeYear": 393,
     "dailyMinutesDown": {}
   }
 ]
