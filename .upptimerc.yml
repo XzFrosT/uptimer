@@ -9,10 +9,8 @@ sites:
     icon: https://i.imgur.com/jIqqUie.png
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: demo.upptime.js.org
-  # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /uptimer
+  theme: dark
   logoUrl: https://harmonymusic.tk/assets/img/logo.png
   name: Uptime XzFrosT
   introTitle: "This is an uptime website for my discord bot"
