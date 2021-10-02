@@ -10,7 +10,7 @@ sites:
 
 status-website:
   baseUrl: /uptimer
-  themeUrl: night
+  theme: night
   logoUrl: https://harmonymusic.tk/assets/img/logo.png
   name: XzFrosT
   introTitle: "XzFrosT StatusPage"
