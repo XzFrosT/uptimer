@@ -10,7 +10,7 @@ sites:
 
 status-website:
   baseUrl: /uptimer
-  theme: ocean
+  themeUrl: https://github.com/XzFrosT/uptimer/blob/master/assets/my-custom-theme.css
   logoUrl: https://harmonymusic.tk/assets/img/logo.png
   name: XzFrosT
   introTitle: "XzFrosT StatusPage"
