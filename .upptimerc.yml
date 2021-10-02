@@ -17,7 +17,7 @@ status-website:
   introMessage: StatusPage for all my project
   navbar:
     - title: Home
-      href: /
+      href: /uptimer
   i18n:
     footer: © 2020-2021 XzFrosT
 
