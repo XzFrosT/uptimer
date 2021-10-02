@@ -13,11 +13,13 @@ status-website:
   theme: ocean
   logoUrl: https://harmonymusic.tk/assets/img/logo.png
   name: XzFrosT
-  introTitle: "This is an uptime website for my discord bot"
-  introMessage: This Website is owned by [XzFrosT](https://youtube.com/XzFrosT)
+  introTitle: "XzFrosT StatusPage"
+  introMessage: StatusPage for all my project
   navbar:
     - title: Home
       href: /
+  i18n:
+    footer: © 2020-2021 XzFrosT
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
