@@ -10,9 +10,9 @@ sites:
 
 status-website:
   baseUrl: /uptimer
-  theme: dark
+  theme: ocean
   logoUrl: https://harmonymusic.tk/assets/img/logo.png
-  name: Uptime XzFrosT
+  name: XzFrosT
   introTitle: "This is an uptime website for my discord bot"
   introMessage: This Website is owned by [XzFrosT](https://youtube.com/XzFrosT)
   navbar:
