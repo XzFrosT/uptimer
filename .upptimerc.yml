@@ -5,7 +5,7 @@ repo: uptimer # Your GitHub repository name
 # Add your sites here
 sites:
   - name: Brain Bot Website
-    url: https://brainbot-xyz.glitch.me
+    url: https://brain-bot.netlify.app
     icon: https://i.imgur.com/jIqqUie.png
 
 status-website:
