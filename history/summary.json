@@ -1,7 +1,7 @@
 [
   {
     "name": "Brain Bot Website",
-    "url": "https://brainbot-xyz.glitch.me",
+    "url": "https://brain-bot.netlify.app",
     "icon": "https://i.imgur.com/jIqqUie.png",
     "slug": "brain-bot-website",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 367,
-    "timeDay": 303,
-    "timeWeek": 327,
-    "timeMonth": 315,
-    "timeYear": 367,
+    "time": 366,
+    "timeDay": 51,
+    "timeWeek": 276,
+    "timeMonth": 299,
+    "timeYear": 366,
     "dailyMinutesDown": {}
   }
 ]
