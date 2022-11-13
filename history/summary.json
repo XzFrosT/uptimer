@@ -4,17 +4,17 @@
     "url": "https://brain-bot.netlify.app",
     "icon": "https://i.imgur.com/jIqqUie.png",
     "slug": "brain-bot-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 273,
-    "timeDay": 1523,
-    "timeWeek": 470,
-    "timeMonth": 482,
-    "timeYear": 239,
+    "time": 272,
+    "timeDay": 1048,
+    "timeWeek": 429,
+    "timeMonth": 471,
+    "timeYear": 238,
     "dailyMinutesDown": {}
   }
 ]
