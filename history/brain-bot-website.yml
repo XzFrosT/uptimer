@@ -1,7 +1,7 @@
 url: https://brain-bot.netlify.app
-status: up
-code: 200
-responseTime: 28
-lastUpdated: 2022-11-12T23:04:36.772Z
+status: down
+code: 500
+responseTime: 3018
+lastUpdated: 2022-11-13T03:23:23.935Z
 startTime: Fri Mar 19 2021 03:01:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
